@@ -1,0 +1,1 @@
+let arrBasket = [['Jacket', 100, 2], ['Polo', 200, 3], ['Shirt', 300, 4], ['Bag', 400, 5]];
